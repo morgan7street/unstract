@@ -1,6 +1,6 @@
 <div align="center">
 <img src="docs/assets/unstract_u_logo.png" style="height: 120px">
-
+Tutoriel : https://www.youtube.com/watch?v=Ymq8o7FSoVc
 # Unstract
 
 ## Intelligent Document Processing 2.0 (IDP 2.0) Platform Powered by Large Language Models
